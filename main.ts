@@ -82,4 +82,4 @@ gamePad.onEvent(GamerBitPin.P2, GamerBitEvent.Down, function () {
     basic.clearScreen()
     radio.sendNumber(0)
 })
-radio.setGroup(10)
+radio.setGroup(4)
