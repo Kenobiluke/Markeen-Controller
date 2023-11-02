@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "microphone": "*",
-        "gamePad": "github:DFRobot/pxt-gamePad#v1.1.0"
+        "gamePad": "github:DFRobot/pxt-gamePad#v1.1.0",
+        "radio-broadcast": "*",
+        "JoyBit": "github:alsrobot-microbit-makecode-packages/ALSRobotJoyBit#1.1.1"
     },
     "files": [
         "main.blocks",
