@@ -83,3 +83,4 @@ gamePad.onEvent(GamerBitPin.P2, GamerBitEvent.Down, function () {
     radio.sendNumber(0)
 })
 radio.setGroup(4)
+radio.setTransmitPower(7)
